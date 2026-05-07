@@ -1,3 +1,6 @@
+<img width="1282" height="815" alt="2026-05-07_221751" src="https://github.com/user-attachments/assets/ed469d49-c39f-48df-aeca-958537e62765" />
+
+
 OpenWrt Terminal Pro v2.4.4
 Терминал и файловый менеджер для Xiaomi AX3000T (OpenWrt) с единым SSH/SFTP подключением.
 
